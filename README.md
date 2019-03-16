@@ -1,8 +1,7 @@
 # Github-Finder
 
-## Which uses the Github API to find github user and there Informations.
-
-## And also there last 5 repository.
+Which uses the Github API to find github user and there Informations.
+And also there last 5 repository.
 
 ## This is an application build with Vanilla JavaScript.Object Oriented Javascript.
 
